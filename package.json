@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "sara": "~0.4.2",
+    "sara": "http://github.com/sarajs/Sara/tarball/master",
     "jquery": "~2.1.0"
   },
   "devDependencies": {},
