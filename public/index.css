@@ -1,0 +1,18 @@
+body {
+  font-family: Helvetica;
+  color: white;
+  margin: 0;
+  overflow: hidden;
+}
+
+#world {
+  width: 150%;
+  height: 4904px;
+  cursor: move;
+  cursor: -webkit-grab;
+  -webkit-user-drag: none;
+}
+
+#world:active {
+  cursor: -webkit-grabbing;
+}
