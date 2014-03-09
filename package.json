@@ -1,0 +1,24 @@
+{
+  "name": "transientinsight.com",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "sara": "~0.4.2",
+    "jquery": "~2.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/JacksonGariety/transientinsight.com.git"
+  },
+  "author": "JacksonGariety",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JacksonGariety/transientinsight.com/issues"
+  },
+  "homepage": "https://github.com/JacksonGariety/transientinsight.com"
+}
